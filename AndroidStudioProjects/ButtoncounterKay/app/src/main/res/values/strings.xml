@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button-counter-Kay</string>
+    <string name="IncermentButton">Increment</string>
+    <string name="DecrementButton">Decrement</string>
+    <string name="ResetButton">Reset</string>
+    <integer name="Count">0</integer>
+</resources>
